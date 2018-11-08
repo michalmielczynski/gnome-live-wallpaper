@@ -13,3 +13,4 @@ Feel free to use the pictures as static wallpapers if you don't want to bother w
 SVG source files included so you might easily adjust them to your taste!
 
 The general concept of the graphic is inspired by some old Gnome wallpaper (low res bitmap), but the whole content is done from zero, using Inkscape.
+The scripts are copied from default Gnome live paper
