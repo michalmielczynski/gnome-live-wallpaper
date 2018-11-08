@@ -1,7 +1,7 @@
 # gnome-live-wallpaper
 Gnome live wallpaper that changes during the day.
 
-
+![alt text](https://i.imgur.com/ubCjpJk.gif)
 
 If you want the wallpaper to change during the day, you need to:
 * alter the gnome-timed.xml - change absolute path to point the right directory on your disk
